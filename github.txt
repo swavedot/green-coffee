@@ -41,3 +41,13 @@ Git(깃)은 컴퓨터 파일의 변경사항을 추적하고 팀 간에 해당 �
 
 git 캐시 삭제
 git credential-cache exit
+
+4. git 관련 명령어들
+   경로> git status : 현재 상태 확인(수정했던 내용들이 빨간색으로 나타남)
+
+- git 캐시 삭제
+  git credential-cache exit
+
+- git 터미널에서 오픈할때  
+  경로> git code . : 새로운 vscode로 오픈 
+  경로> git code . -r : 새로운 vscode 창이 아닌 현재 창에서 오픈    
